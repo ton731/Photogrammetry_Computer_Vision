@@ -1,2 +1,2 @@
 # Photogrammetry_Computer_Vision
-攝影測量與電腦視覺
+攝影測量與電腦視覺課程
