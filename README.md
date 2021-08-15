@@ -8,6 +8,8 @@
 
 - Using the recorded video, we can get the vanishing point on the image.
 ![TonyRoadVideo_short](https://user-images.githubusercontent.com/57138654/129470016-f4d32b4d-7bb4-4245-b835-6cc0d8188241.gif)
+<img width="400" alt="TonyRoadBig" src="https://user-images.githubusercontent.com/57138654/129470016-f4d32b4d-7bb4-4245-b835-6cc0d8188241.gif">
+
 
 
 - We can then analyze the vanishing points, turn the images into a 2d map.
