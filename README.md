@@ -6,10 +6,11 @@
 
 --------------------------------------------------------
 
-Using the recorded video, we can get the vanishing point on the image.
-https://user-images.githubusercontent.com/57138654/129469847-3a75e748-203f-415f-8ee6-e865c8d21a94.mp4
+- Using the recorded video, we can get the vanishing point on the image.
+![TonyRoadVideo_short](https://user-images.githubusercontent.com/57138654/129470016-f4d32b4d-7bb4-4245-b835-6cc0d8188241.gif)
 
-We can then analyze the vanishing points, turn the images into a 2d map.
+
+- We can then analyze the vanishing points, turn the images into a 2d map.
 <img width="400" alt="TonyRoadBig" src="https://user-images.githubusercontent.com/57138654/129469704-22707b29-4c1d-459c-8a8e-f129be3d0bb5.png">
 <img width="400" alt="TonyRoadBig_route" src="https://user-images.githubusercontent.com/57138654/129469708-0982f488-fafd-4822-81a1-7e43a29641b2.png">
 
